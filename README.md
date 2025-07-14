@@ -10,6 +10,7 @@ Please feel free browse any of the below topics and see how the work I’ve put 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/shayilkhani/vulnerability-management-program)**
+- **[Cloud to Vulnerability: A Complete Walkthrough of Azure VM Deployment & Enterprise-Grade Scanning with Tenable Nessus](https://github.com/shayilkhani/azure-deployment-and-vulnerability-scanning)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
