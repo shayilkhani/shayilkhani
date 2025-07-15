@@ -11,7 +11,7 @@ Please feel free browse any of the below topics and see how the work I’ve put 
 
 - **[Vulnerability Management Program Implementation](https://github.com/shayilkhani/vulnerability-management-program)**
 - **[Cloud to Vulnerability: A Complete Walkthrough of Azure VM Deployment & Enterprise-Grade Scanning with Tenable Nessus](https://github.com/shayilkhani/azure-deployment-and-vulnerability-scanning)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Buffer Overflow Vulnerability Remediation Implementation Using Powershell](https://github.com/shayilkhani/buffer-overflow-programmatic-remediation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
