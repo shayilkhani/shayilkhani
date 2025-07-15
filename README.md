@@ -15,7 +15,7 @@ Please feel free browse any of the below topics and see how the work I’ve put 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/shayilkhani/tor-browser-threat-hunt-scenario)**
 
 <hr/>
 
